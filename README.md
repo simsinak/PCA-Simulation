@@ -1,7 +1,7 @@
 # PCA (A Cloud Service Selector in the Peer Cloud Assisted Environments)
 This is the simulation code based on [VMLCB](https://github.com/simsinak/VMLCB) algorithm. It has been used in the **Network and Application-Aware Cloud Service Selection in Peer-Assisted Environments** paper.
 ___
-To use real RTT, write them in **rtt.txt**. the format is as follows:__
+To use real RTT, write them in **rtt.txt**. the format is as follows:<br />
 -> *Location , min_rtt, max_rtt* __
 ##*mid_rtt* __
 ##*div_rtt* __
