@@ -1,4 +1,5 @@
-# PCA (A Cloud Service Selector in the Peer Cloud Assisted Environments)
+#The PCA Simulation
+PCA is a cloud service selector in the peer cloud assisted environments.
 This is the simulation code based on [VMLCB](https://github.com/simsinak/VMLCB) algorithm. It has been used in the **Network and Application-Aware Cloud Service Selection in Peer-Assisted Environments** paper.
 ___
 To use real RTT, write them in **rtt.txt**. the format is as follows:<br />
