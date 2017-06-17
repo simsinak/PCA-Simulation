@@ -17,3 +17,6 @@ ___
 Change the **RequestGenerator.java** to change specifications of the requests.
 ___
 Change **RandomCloudInformation2.java** to change specifications of the cloud providers. It loads **available IAASclouds.txt** and **ranks.txt** files.
+___
+#Class Diagram#
+![PCA class diagram](http://www.axgig.com/images/28547218659415721727.png "PCA class diagram")
